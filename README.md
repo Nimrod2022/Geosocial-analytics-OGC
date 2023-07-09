@@ -1,6 +1,4 @@
-# Mapping tweets on Google Earth Pro
-
-# Description
+### Mapping tweets on Google Earth Pro
 
 The program uses GeoTools (modular open-source development toolkit used to implement
 the OGC specifications to create a connection to a WMS) and OpenCSV (lightweight opensource library used to read and parse the CSV file) as external libraries.
